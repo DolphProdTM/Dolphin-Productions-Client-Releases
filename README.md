@@ -1,49 +1,61 @@
-# Repositorio de Actualizaciones del Launcher
+# Dolphin Productions™ Launcher Update Repository
 
-¡Bienvenido al **Repositorio de Actualizaciones del Launcher**!  
-Este repositorio está dedicado exclusivamente a proporcionar actualizaciones para el launcher. Aquí encontrarás los archivos de instalación más recientes para Windows, macOS y Linux en la sección de [Releases](https://github.com/DolphProdTM/Dolphin-Productions-Client-Releases/releases).
-
----
-
-## 🚀 Guía de Instalación
-
-### 1. Descargar el archivo de instalación
-1. Ve a la página de [Releases](https://github.com/DolphProdTM/Dolphin-Productions-Client-Releases/releases).
-2. Descarga el archivo correspondiente a tu sistema operativo:
-   - **Windows**: `.exe`
-   - **macOS**: `.dmg`
-   - **Linux**: `.AppImage`
+Welcome to the **Dolphin Productions™ Launcher Update Repository**!  
+This repository is exclusively dedicated to delivering the latest updates for the Dolphin Productions™ Launcher. In the [Releases](https://github.com/DolphProdTM/Dolphin-Productions-Client-Releases/releases) section, you will find the most recent installation files for **Windows**, **macOS**, and **Linux**.
 
 ---
 
-### 2. Instalar el Launcher
-#### Windows:
-1. Haz doble clic en el archivo `.exe`.
-2. Sigue las instrucciones del asistente de instalación.
+## 🚀 Installation Guide
 
-#### macOS:
-1. Abre el archivo `.dmg`.
-2. Arrastra el launcher a tu carpeta de Aplicaciones.
-
-#### Linux:
-1. Haz el archivo `.AppImage` ejecutable:
-   - Abre una terminal y escribe: `chmod +x Dolphin-Productions-Client.AppImage`.
-2. Ejecuta el archivo:
-   - Escribe en la terminal: `./Dolphin-Productions-Client.AppImage`.
+### Step 1: Download the Installer
+1. Head over to the [Releases](https://github.com/DolphProdTM/Dolphin-Productions-Client-Releases/releases) page.
+2. Download the installer that matches your operating system:
+   - **Windows**: `.exe` file
+   - **macOS**: `.dmg` file
+   - **Linux**: `.AppImage` file
 
 ---
 
-## 📂 Propósito del Repositorio
-Este repositorio es únicamente para distribuir actualizaciones del launcher.  
-No incluye recursos de desarrollo, código fuente u otros archivos. Para eso, consulta el [repositorio principal](https://github.com/DolphProdTM/Dolphin-Productions-Client-Releases).
+### Step 2: Install the Launcher
+
+#### 🪟 Windows:
+1. Double-click the `.exe` file you downloaded.
+2. Follow the on-screen instructions provided by the setup wizard.
+
+#### 🍎 macOS:
+1. Open the `.dmg` file.
+2. Drag and drop the Launcher into your **Applications** folder.
+
+#### 🐧 Linux:
+1. Make the `.AppImage` file executable:
+   - Open a terminal and run: `chmod +x Dolphin-Productions-Client.AppImage`
+2. Launch the application:
+   - In the terminal, execute: `./Dolphin-Productions-Client.AppImage`
 
 ---
 
-## 🛠 Resolución de Problemas
-Si tienes algún problema durante la instalación:
-- Revisa la sección de **Issues** para ver si tu problema ya ha sido reportado.
-- Crea un nuevo issue con una descripción detallada del problema, incluyendo tu sistema operativo y cualquier mensaje de error.
+## 📦 Purpose of This Repository
+
+This repository serves solely as a distribution point for Launcher updates.  
+It **does not** contain source code, development resources, or internal project files.  
+If you are looking for the main development repository, please visit the [main repository](https://github.com/DolphProdTM/Dolphin-Productions-Client-Releases).
 
 ---
 
-¡Gracias por usar nuestro launcher! 🚀
+## 🛠 Troubleshooting
+
+Encountering issues during installation or usage?  
+We’ve got you covered:
+
+- Check the **Issues** tab to see if your problem has already been reported or resolved.
+- If not, feel free to open a **new issue** with the following information:
+  - A clear and detailed description of the problem
+  - Your operating system and version
+  - Any error messages or logs (if available)
+
+This helps us assist you faster and more effectively.
+
+---
+
+Thank you for using the Dolphin Productions™ Launcher!  
+We’re committed to delivering the best possible experience. Stay tuned for more features and updates! 🚀
